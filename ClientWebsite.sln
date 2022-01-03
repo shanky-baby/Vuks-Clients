@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{77C197D4-B168-49DB-A617-2C74D8EBA455}"
+	ProjectSection(SolutionItems) = preProject
+		HomePage.html = HomePage.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{8C2CE98B-4136-4B9B-8FC7-5CFF150AA70B}"
+	ProjectSection(SolutionItems) = preProject
+		home.css = home.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{51D2AE95-73AD-4631-9BC7-B033F821A11F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "icons", "icons", "{A93CDC88-57A9-44F0-BA5B-9DCADCF51545}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A93CDC88-57A9-44F0-BA5B-9DCADCF51545} = {51D2AE95-73AD-4631-9BC7-B033F821A11F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FDC359D-7697-428F-BD79-46AF07EE0B81}
+	EndGlobalSection
+EndGlobal
